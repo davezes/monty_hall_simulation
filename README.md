@@ -1,4 +1,6 @@
 ## Monty Hall Game Simulation Code
 
-Code in a few different languages for your edification and enjoyment to simulate the Monty Hall Game.
+This repo has been moved to
+
+quantslob/monty_hall_simulation
 
